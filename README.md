@@ -57,4 +57,4 @@ axios
 
 <h2>Ekran Görüntüsü</h2>
 
-![](./public/recipe_backend.gif)
+![](./client/public/recipe_backend.gif)
